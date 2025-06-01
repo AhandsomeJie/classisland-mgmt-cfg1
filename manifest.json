@@ -3,18 +3,18 @@
     "OrganizationName": "一只介的测试",
     "ClassPlanSource": {
        "Value": "https://raw.githubusercontent.com/AhandsomeJie/classisland-mgmt-cfg1/master/{id}/classplans.json",
-       "Version": 3
+       "Version": 4
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/AhandsomeJie/classisland-mgmt-cfg1/master/timelayouts.json",
-        "Version": 2
+        "Version": 4
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/AhandsomeJie/classisland-mgmt-cfg1/master/subjects.json",
-        "Version": 2
+        "Version": 4
     },
     "PolicySource": {
         "Value": "https://raw.githubusercontent.com/AhandsomeJie/classisland-mgmt-cfg1/master/policy.json",
-        "Version": 2
+        "Version": 4
     }
 }
