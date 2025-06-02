@@ -3,7 +3,7 @@
     "OrganizationName": "AL-1S",
     "ClassPlanSource": {
        "Value": "https://raw.githubusercontent.com/AhandsomeJie/classisland-mgmt-cfg1/master/{id}/classplans.json",
-       "Version": 5
+       "Version": 6
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/AhandsomeJie/classisland-mgmt-cfg1/master/timelayouts.json",
